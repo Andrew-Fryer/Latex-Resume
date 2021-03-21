@@ -1,0 +1,16 @@
+This is a list of known problems with my resume:
+-links don't look clickable
+-I should bold important stuff
+-more #s according to Andy Tran and Kyle Meade
+
+Feedback from Andy Tran:
+Text looks a bit small to read
+Need more spacing between roles -> white space is key!
+Education - pick 3 courses, add grades (GPA 4.0/4.3)
+Work experience - reverse chronological order!
+DCP -> can you talk about any results? Did the boot loading solution save time?
+Betalab -> can you talk about any results? Number of users?
+Vena: consider keeping only the last 2 lines
+FLAP -> reword to monthly active users (MAU)
+TA -> how many people?
+Unpaid experience -> rename to extra-curricular experience
