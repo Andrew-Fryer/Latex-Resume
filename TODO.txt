@@ -1,5 +1,5 @@
 This is a list of known problems with my resume:
--links don't look clickable
+-links don't look clickable!!!!!!!!!!!!!!!!!!
 -I should bold important stuff
 -more #s according to Andy Tran and Kyle Meade
 
@@ -14,3 +14,12 @@ Vena: consider keeping only the last 2 lines
 FLAP -> reword to monthly active users (MAU)
 TA -> how many people?
 Unpaid experience -> rename to extra-curricular experience
+
+
+
+
+BASc -> MASc
+  get this to format properly
+talk about fuzzing
+combine consulting gigs to save space
+CEC second time
