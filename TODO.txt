@@ -23,3 +23,14 @@ BASc -> MASc
 talk about fuzzing
 combine consulting gigs to save space
 CEC second time
+
+
+Use the words:
+ Python, Go, C++, JavaScript
+network protocols, secure network design, web application/browser security, authentication control, applied cryptography/security protocols, intrusion detection
+technical privacy issues and experience with the software development lifecycle
+Excellent communication skills
+^I can put those in:
+ELEC 473
+consulting I did software development lifecycle and applied security protocol and communication skills
+
