@@ -1,6 +1,5 @@
 This is a list of known problems with my resume:
 -links don't look clickable!!!!!!!!!!!!!!!!!!
--I should bold important stuff
 -more #s according to Andy Tran and Kyle Meade
 
 Feedback from Andy Tran:
@@ -10,18 +9,13 @@ Education - pick 3 courses, add grades (GPA 4.0/4.3)
 Work experience - reverse chronological order!
 DCP -> can you talk about any results? Did the boot loading solution save time?
 Betalab -> can you talk about any results? Number of users?
-Vena: consider keeping only the last 2 lines
-FLAP -> reword to monthly active users (MAU)
 TA -> how many people?
-Unpaid experience -> rename to extra-curricular experience
 
 
 
 
 BASc -> MASc
   get this to format properly
-talk about fuzzing
-combine consulting gigs to save space
 CEC second time
 
 
@@ -34,3 +28,18 @@ Excellent communication skills
 ELEC 473
 consulting I did software development lifecycle and applied security protocol and communication skills
 
+
+too many words
+there shouldn't be 2 Queen's 
+position should be easier to read (not sure if I'll take the time to fix this)
+"Extracurricular Activities" -> "Extracurricular Competitions"/"Competitions"
+
+make font bigger if I can 
+    I made it 12 I think
+add skills in relevant experience and bold them
+  I think I should spread them out over different experiences???
+
+new profile picture on LinkedIn!
+
+say "agile" exactly once?
+spread out bolded skills?
