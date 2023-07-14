@@ -12,11 +12,7 @@ Betalab -> can you talk about any results? Number of users?
 TA -> how many people?
 
 
-
-
-BASc -> MASc
-  get this to format properly
-CEC second time
+CEC second time?
 
 
 Use the words:
@@ -30,7 +26,6 @@ consulting I did software development lifecycle and applied security protocol an
 
 
 too many words
-there shouldn't be 2 Queen's 
 position should be easier to read (not sure if I'll take the time to fix this)
 "Extracurricular Activities" -> "Extracurricular Competitions"/"Competitions"
 

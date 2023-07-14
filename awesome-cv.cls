@@ -558,7 +558,7 @@
 % Define an environment for cventry
 \newenvironment{cventries}{%
   \vspace{\acvSectionContentTopSkip}
-  \vspace{1mm}
+  \vspace{1.5mm}
   \begin{center}
 }{%
   \end{center}
@@ -567,7 +567,7 @@
 % Define an entry of cv information
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
 \newcommand*{\cventry}[5]{%
-  \vspace{-2.8mm}
+  \vspace{-2.6mm}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{-2pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
