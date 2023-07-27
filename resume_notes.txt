@@ -1,0 +1,24 @@
+https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=2204553
+
+CV
+    longer
+    chronological
+    more standard format
+
+maybe I should put my address on there...
+
+work experience
+    list impact I had (not the responsibility I had)
+
+Skills
+    list technical skills only
+        soft skills (such as leadership) should be evident from my work experience section
+    only list things I'd be comfortable answers questions about in an interview
+    denote competency in skill "Java - Advanced"/Intermediate/Basic
+
+<verb (achieved, improved, trained, resolved, launched, built)> <noun> from <data> (which led/in order) to <impact (ideally with numbers)>
+
+write an objective at the top of the resume until I have enough experience to write a summary
+
+after I've graduated, I should remove my graduation date from my resume
+
