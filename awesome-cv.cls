@@ -569,14 +569,14 @@
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
 \newcommand*{\cventry}[5]{%
   % \vspace{-2.6mm}
-  % \vspace{-1.6mm}
+  \vspace{-1.6mm}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0.25pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 5.2cm} R{5.2cm}}
     \ifempty{#2#3}
       {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-      {\entrytitlestyle{#2} & \entrydatestyle{#4} \\
-      \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
+      {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
+      \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
     \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
   \end{tabular*}%
 }
