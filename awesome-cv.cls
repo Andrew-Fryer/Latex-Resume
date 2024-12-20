@@ -569,7 +569,7 @@
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
 \newcommand*{\cventry}[5]{%
   % \vspace{-2.6mm}
-  \vspace{-1.6mm}
+  % \vspace{-1.6mm}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0.25pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 5.2cm} R{5.2cm}}
