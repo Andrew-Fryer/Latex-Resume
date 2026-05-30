@@ -443,12 +443,6 @@
           \faMobile\acvHeaderIconSep\@mobile%
           \setbool{isstart}{false}%
         }%
-      \ifthenelse{\isundefined{\@email}}%
-        {}%
-        {%
-          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{mailto:\@email}{\faEnvelope\acvHeaderIconSep\@email}%
-        }%
       \ifthenelse{\isundefined{\@homepage}}%
         {}%
         {%
@@ -466,6 +460,12 @@
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
           \href{https://gitlab.com/\@gitlab}{\faGitlab\acvHeaderIconSep\@gitlab}%
+        }%
+      \ifthenelse{\isundefined{\@email}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{mailto:\@email}{\faEnvelope\acvHeaderIconSep\@email}%
         }%
       \ifthenelse{\isundefined{\@stackoverflowid}}%
         {}%
